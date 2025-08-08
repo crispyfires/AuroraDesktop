@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Link
 Name=Aurora Documentation
-Exec=xdg-open /usr/share/doc/aurora/aurora.pdf
+URL=/usr/share/doc/aurora/aurora.pdf
 Icon=/usr/share/icons/hicolor/scalable/distributor-logo.svg
 Categories=Help;Documentation;
